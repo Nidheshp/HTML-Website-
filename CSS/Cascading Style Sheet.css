@@ -1,0 +1,8 @@
+body{
+	background-color: #A9A9A9;
+	color: #000099; /*Colour of font*/
+	font-size:120%; /*Changes font size on all pages */
+	font-family: Times New Roman;
+	line-height: 1;
+	text-align: Center;
+}
